@@ -99,7 +99,7 @@
 
 <div class="container mt-3">
 <h1>Contact us for your your concern.</h1>
-    <form action="/php" method="post">
+    <form action="/php/index.php" method="post">
     <div class="form-group">
         <label for="name">Name</label>
         <input type="text" name="name" class="form-control" id="name" aria-describedby="emailHelp">
